@@ -1,0 +1,4 @@
+MAX_SIZE = 4
+
+def isEmpty(top):
+      
